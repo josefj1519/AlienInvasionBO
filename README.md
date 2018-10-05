@@ -11,6 +11,6 @@ the jar and get some code back, but is missing some features from the original.
 
 [![Image from Gyazo](https://i.gyazo.com/39db8172ba6338a4e6205be02689c190.gif)](https://gyazo.com/39db8172ba6338a4e6205be02689c190)
 
-** More Gameplay: **
+**More Gameplay:**
 
 [![Image from Gyazo](https://i.gyazo.com/f77fc586cb43ff17141b7227be4154e4.png)](https://gyazo.com/f77fc586cb43ff17141b7227be4154e4)
